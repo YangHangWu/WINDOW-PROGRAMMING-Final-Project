@@ -1,0 +1,6 @@
+dog
+aquarium
+bottle
+plate
+bowl
+box

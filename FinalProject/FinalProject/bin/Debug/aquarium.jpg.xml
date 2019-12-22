@@ -1,0 +1,35 @@
+<annotation>
+  <filename>aquarium.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>194</ymin>
+      <xmax>440</xmax>
+      <max>438</max>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>308</xmin>
+      <ymin>115</ymin>
+      <xmax>389</xmax>
+      <max>176</max>
+    </bndbox>
+  </object>
+  <object>
+    <name>45</name>
+    <bndbox>
+      <xmin>468</xmin>
+      <ymin>211</ymin>
+      <xmax>524</xmax>
+      <max>288</max>
+    </bndbox>
+  </object>
+</annotation>
